@@ -1,6 +1,5 @@
 # Lilith 
 
-**Lilith** is a powerful security testing tool for professionals. It allows you to safely simulate attacks, monitor networks, collect files, and gather system info — all without causing harm. Designed for efficiency and stealth, Lilith helps security teams uncover vulnerabilities and improve defenses.
 
 ---
 
