@@ -1,0 +1,4 @@
+.venv/
+Lilith_Output/
+*.pyc
+__pycache__/
