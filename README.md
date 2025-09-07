@@ -1,22 +1,29 @@
-# Lilith
+# Lilith - Advanced External Security Testing Tool
 
-**Lilith** is a security testing tool designed for controlled environments.  
-It helps security analysts simulate attack scenarios and identify weaknesses in systems.
-
----
-
-## 🚀 Features
-- Safe and controlled payload simulation (no harm to real systems).
-- Encrypted modules for secure distribution.
-- Easy-to-use single-file deployment.
-- Useful for training, awareness, and testing environments.
+**Lilith** is a powerful security testing tool for professionals. It allows you to safely simulate attacks, monitor networks, collect files, and gather system info — all without causing harm. Designed for efficiency and stealth, Lilith helps security teams uncover vulnerabilities and improve defenses.
 
 ---
 
-## ⚡ Installation
-Clone the repository and install the required dependencies:
+## Key Features
+- Real-time network monitoring
+- Safe file collection from specified paths
+- System information gathering
+- Simple command-line interface
 
+---
+
+## Quick Start
 ```bash
+install 
 git clone https://github.com/G7R666/Lilith.git
 cd Lilith
-pip install -r requirements.txt
+python3 Lilith.py
+
+
+help   - Show available commands
+list   - List all modules
+use    - Load a module
+exit   - Exit the tool
+
+
+Developer:abdalmohamen
